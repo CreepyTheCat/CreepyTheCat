@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm CreepyCat.Real name . . .</h2>
+<h2 align="left">Meow 👋! I'm CreepyCat. </h2>
 
 ###
 
@@ -56,6 +56,7 @@
 <img src="https://raw.githubusercontent.com/CreepyTheCat/CreepyTheCat/output/snake.svg" alt="Snake animation" />
 
 ###
+Add me on facebook or I'll be sad .
 XMR:462rJtogn67GvJvNonQRPj4h3YsPMFZcMf2G58kFg1dvJhbW9fJtKbWiRxGgpo6YLU2fA94ndc3FK23VY52ncjg69jUXmVS
 
 <img align="right" src="https://profile-counter.glitch.me/CreepyTheCat/count.svg?"  />
